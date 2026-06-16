@@ -1,4 +1,4 @@
-# Deep_learning_Project_2
+# Text classification model fine-tuned using Low-Rank Adaptation (LoRA) 
 
 This project involved building a text classification model fine-tuned using Low-Rank Adaptation (LoRA) on the AG News dataset. Our task was to categorize news articles into four categories: World, Sports, Business, and Sci/Tech.
 
